@@ -1,0 +1,396 @@
+.frame-child {
+  position: absolute;
+  top: 250.2px;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 52, 113, 0.6) 34.85%,
+    rgba(216, 58, 105, 0)
+  );
+  filter: blur(80px);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 634.3px;
+  height: 610.8px;
+  mix-blend-mode: linear-dodge;
+  z-index: 3;
+}
+.fffffff-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 576.2px;
+  height: 375.8px;
+  object-fit: contain;
+  z-index: 1;
+}
+.login-page,
+.white-background {
+  position: absolute;
+  top: 139.4px;
+  left: 596.1px;
+  width: 576.2px;
+  height: 375.8px;
+}
+.login-page {
+  top: 0;
+  left: -10.3px;
+  background-color: var(--color-black);
+  width: 535.9px;
+  height: 641.7px;
+  z-index: 2;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #ff004b;
+  width: 122.2px;
+  height: 30.9px;
+  z-index: 4;
+}
+.book-a-test {
+  position: absolute;
+  top: 6.9px;
+  left: 17.4px;
+  display: inline-block;
+  width: 111.9px;
+  height: 17.7px;
+  z-index: 5;
+}
+.configure-yours,
+.rectangle-parent {
+  position: absolute;
+  top: 291px;
+  left: 64px;
+  width: 129.3px;
+  height: 30.9px;
+}
+.configure-yours {
+  top: 296.9px;
+  left: 205.4px;
+  display: inline-block;
+  width: 116.3px;
+  height: 17.7px;
+  z-index: 4;
+}
+.cow-boy,
+.take-the {
+  white-space: pre-wrap;
+}
+.cow-boy {
+  position: absolute;
+  top: 24px;
+  left: 17px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 62px;
+  height: 23px;
+  min-width: 62px;
+  z-index: 4;
+}
+.take-the {
+  margin: 0;
+}
+.streets {
+  margin: 0;
+}
+.take-the-streets-container {
+  margin: 0;
+  position: absolute;
+  top: 120px;
+  left: 61px;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #fffefe;
+  display: inline-block;
+  width: 328.4px;
+  height: 145.8px;
+  z-index: 4;
+}
+.shift-your-ride {
+  font-family: var(--font-inter);
+}
+.fastest-way-to,
+.shift-your-ride-not-gears-ea {
+  margin: 0;
+}
+.b {
+  font-family: var(--font-inter);
+}
+.adapts-intuitively-to-power-th {
+  margin: 0;
+}
+.cowboy3,
+.shift-your-ride-container {
+  position: absolute;
+  display: inline-block;
+}
+.shift-your-ride-container {
+  top: 228px;
+  left: 64px;
+  font-size: 15px;
+  width: 619px;
+  height: 81px;
+  z-index: 6;
+}
+.cowboy3 {
+  margin: 0;
+  top: 183px;
+  left: 225px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: inherit;
+  color: #b62551;
+  width: 166.4px;
+  height: 42.7px;
+  z-index: 5;
+}
+.frame-inner,
+.login-page-parent {
+  position: absolute;
+  top: 0;
+  left: 349px;
+  width: 683px;
+  height: 604px;
+}
+.frame-inner {
+  left: 0;
+  background-color: #242020;
+  width: 573px;
+  height: 644px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 499px;
+  left: 33px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.1);
+  filter: blur(4px);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 288px;
+  height: 16px;
+  mix-blend-mode: soft-light;
+  z-index: 4;
+}
+.kmh {
+  margin: 0;
+}
+.assist-speed {
+  margin: 0;
+  font-size: var(--font-size-4xs);
+}
+.kmh-assist-speed-container {
+  position: absolute;
+  top: 523px;
+  left: 100px;
+  display: inline-block;
+  width: 72px;
+  height: 33px;
+  z-index: 4;
+}
+.kmh1 {
+  margin: 0;
+}
+.battery-range {
+  margin: 0;
+  font-size: var(--font-size-4xs);
+}
+.kmh-battery-range-container {
+  position: absolute;
+  top: 523px;
+  left: 206px;
+  display: inline-block;
+  width: 72px;
+  height: 33px;
+  z-index: 4;
+}
+.h {
+  margin: 0;
+}
+.chargingtime {
+  margin: 0;
+  font-size: var(--font-size-4xs);
+}
+.h-chargingtime {
+  position: absolute;
+  top: 523px;
+  left: 318px;
+  display: inline-block;
+  color: var(--color-black);
+  width: 73px;
+  height: 33px;
+  z-index: 4;
+}
+.kg {
+  margin: 0;
+}
+.b-weight {
+  margin: 0;
+  font-size: var(--font-size-4xs);
+}
+.kg-b-weight-container {
+  position: absolute;
+  top: 520px;
+  left: 437px;
+  display: inline-block;
+  color: var(--color-black);
+  width: 59px;
+  height: 32px;
+  z-index: 4;
+}
+.bikes-label-child,
+.bikes-label-inner,
+.bikes-label-item,
+.rectangle-div {
+  position: absolute;
+  top: 33px;
+  left: 23px;
+  width: 27px;
+  height: 22px;
+  z-index: 4;
+}
+.bikes-label-inner,
+.bikes-label-item,
+.rectangle-div {
+  left: 170px;
+}
+.bikes-label-inner,
+.rectangle-div {
+  left: 132px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 0, 75, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+}
+.bikes-label-child1,
+.star-icon {
+  position: absolute;
+  top: 33px;
+  left: 101px;
+  width: 27px;
+  height: 22px;
+  z-index: 6;
+}
+.bikes-label-child1 {
+  left: 63px;
+}
+.bikes-label {
+  position: absolute;
+  top: 138px;
+  left: 311px;
+  width: 221px;
+  height: 88px;
+}
+.about-us,
+.group-icon {
+  position: absolute;
+  z-index: 4;
+}
+.group-icon {
+  top: 31px;
+  left: 27px;
+  width: 30px;
+  height: 4px;
+  mix-blend-mode: linear-dodge;
+}
+.about-us {
+  top: 25px;
+  left: 234px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  min-width: 55px;
+  cursor: pointer;
+}
+.service-suppot {
+  left: 334px;
+  display: inline-block;
+  min-width: 101px;
+}
+.bikes,
+.service-suppot,
+.sign-in {
+  position: absolute;
+  top: 25px;
+  font-size: var(--font-size-xs);
+  cursor: pointer;
+  z-index: 4;
+}
+.bikes {
+  left: 156px;
+  line-height: 15px;
+  display: inline-block;
+  width: 42px;
+  height: 11px;
+}
+.sign-in {
+  left: 453px;
+  white-space: pre-wrap;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 830px;
+  width: 573px;
+  height: 604px;
+  font-size: var(--font-size-base);
+}
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: -349px;
+  width: 1403px;
+  height: 861px;
+}
+.image-removebg-preview-1-icon {
+  position: absolute;
+  top: 284px;
+  left: -165px;
+  width: 404px;
+  height: 404px;
+  object-fit: cover;
+  z-index: 7;
+}
+.cowboy-icon {
+  height: 604px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 767px) {
+  .take-the-streets-container {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .take-the-streets-container {
+    font-size: var(--font-size-5xl);
+  }
+  .cowboy3 {
+    font-size: 19px;
+  }
+}
